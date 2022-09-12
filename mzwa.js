@@ -8,13 +8,13 @@
 
         "languaje": "en",
 
-        "changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-en.html"
+        "changelog": "https://github.com/me-mozz/mzwhatsapp/raw/main/changelog/en/mzwa.html"
 
     }, {
 
-        "languaje": "id",
+        "languaje": "in",
 
-        "changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-es.html"
+        "changelog": "https://github.com/me-mozz/mzwhatsapp/raw/main/changelog/indonesia/mzwa.html"
 
     }]
 
