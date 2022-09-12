@@ -1,6 +1,6 @@
 {
 
-    "version": "7.0",
+    "version": "7.1",
 
     "download": "https://apkadmin.com/",
 
@@ -8,13 +8,13 @@
 
         "languaje": "en",
 
-        "changelog": "https://github.com/me-mozz/mzwhatsapp/raw/main/changelog/en/mzwa.html"
+        "changelog": "https://raw.githubusercontent.com/me-mozz/mzwhatsapp/main/changelog/en/mzwa.html"
 
     }, {
 
         "languaje": "in",
 
-        "changelog": "https://github.com/me-mozz/mzwhatsapp/raw/main/changelog/indonesia/mzwa.html"
+        "changelog": "https://raw.githubusercontent.com/me-mozz/mzwhatsapp/main/changelog/indonesia/mzwa.html"
 
     }]
 
