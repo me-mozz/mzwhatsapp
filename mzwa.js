@@ -1,6 +1,6 @@
 {
 
-    "version": "7.1",
+    "version": "27.0",
 
     "download": "https://apkadmin.com/",
 
